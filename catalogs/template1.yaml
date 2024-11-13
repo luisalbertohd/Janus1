@@ -4,8 +4,8 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: v1beta3-demo
-  title: LAHD Demo
-  description: scaffolder v1beta3 template demo
+  title: Aprovisionar MINERVA
+  description: Template Aprovisionar Minerva
 spec:
   owner: backstage/techdocs-core
   type: service
